@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "CSE Core Courses"
+    },
+    {
+        "id": "02",
+        "name": "Basic Science Courses"
+    },
+    {
+        "id": "03",
+        "name": "General Education Courses"
+    },
+    {
+        "id": "04",
+        "name": "Mathematics Courses"
+    },
+    {
+        "id": "05",
+        "name": "Elective Courses"
+    },
+    {
+        "id": "06",
+        "name": "Disciplinary Engineering Courses"
+    },
+    {
+        "id": "07",
+        "name": "English Language Courses"
+    },
+    {
+        "id": "08",
+        "name": "All Courses"
+    }
+]
